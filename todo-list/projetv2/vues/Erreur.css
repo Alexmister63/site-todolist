@@ -1,0 +1,12 @@
+body {
+	
+	background-image:url(error.jpg); 
+	background-repeat:no-repeat;
+	background-size: cover;
+}
+
+
+.text{
+	text-align: center;
+	text-shadow: 2px 2px 10px;
+}
